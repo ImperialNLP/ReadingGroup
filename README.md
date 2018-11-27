@@ -18,3 +18,6 @@
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
 
+
+
+Kindly recommend/suggest papers [here](https://github.com/ImperialNLP/ReadingGroup/blob/master/suggestions.md)
