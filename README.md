@@ -20,4 +20,4 @@
 
 
 
-Kindly recommend/suggest papers [here](https://github.com/ImperialNLP/ReadingGroup/blob/master/suggestions.md)
+Check current suggestions or suggest other papers [here](https://github.com/ImperialNLP/ReadingGroup/blob/master/suggestions.md)
