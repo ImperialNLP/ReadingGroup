@@ -7,7 +7,8 @@ Adversarial Neural Machine Translation | Lucia | [PDF](https://arxiv.org/abs/170
 GAN Dissection: Visualizing and Understanding Generative Adversarial Networks | Pranava |[Link](https://gandissect.csail.mit.edu/)|
 Causal Inference via Kernel Deviance Measures | Pranava | [PDF](https://arxiv.org/abs/1804.04622)|
 Variational Learning on Aggregate Outputs with Gaussian Processes | Pranava | [PDF](https://arxiv.org/abs/1805.08463)|
-Grammar Variational Autoencoder | Pranava | [PDF](https://arxiv.org/pdf/1703.01925.pdf)|Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction | Pranava | [PDF](https://arxiv.org/abs/1808.03867)|
+Grammar Variational Autoencoder | Pranava | [PDF](https://arxiv.org/pdf/1703.01925.pdf)|
+Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction | Pranava | [PDF](https://arxiv.org/abs/1808.03867)|
 ---------------------------------------------------------------------------------------
 
 
