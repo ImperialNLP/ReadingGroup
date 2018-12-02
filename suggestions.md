@@ -9,6 +9,9 @@ Causal Inference via Kernel Deviance Measures | Pranava | [PDF](https://arxiv.or
 Variational Learning on Aggregate Outputs with Gaussian Processes | Pranava | [PDF](https://arxiv.org/abs/1805.08463)|
 Grammar Variational Autoencoder | Pranava | [PDF](https://arxiv.org/pdf/1703.01925.pdf)|
 Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence Prediction | Pranava | [PDF](https://arxiv.org/abs/1808.03867)|
+Residual Loss Prediction: Reinforcement Learning with no Incremental Feedback | Pranava | [PDF](http://hal3.name/docs/daume18reslope.pdf)|
+Hierarchical Imitation and Reinforcement Learning | Pranava | [PDF](http://hal3.name/docs/daume18ilrl.pdf)|
+Reinforcement Learning for Bandit Neural Machine Translation with Simulated Human Feedback | Pranava | [PDF](http://hal3.name/docs/daume17simhuman.pdf)|
 ---------------------------------------------------------------------------------------
 
 
