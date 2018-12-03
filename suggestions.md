@@ -12,6 +12,9 @@ Pervasive Attention: 2D Convolutional Neural Networks for Sequence-to-Sequence P
 Residual Loss Prediction: Reinforcement Learning with no Incremental Feedback | Pranava | [PDF](http://hal3.name/docs/daume18reslope.pdf)|
 Hierarchical Imitation and Reinforcement Learning | Pranava | [PDF](http://hal3.name/docs/daume18ilrl.pdf)|
 Reinforcement Learning for Bandit Neural Machine Translation with Simulated Human Feedback | Pranava | [PDF](http://hal3.name/docs/daume17simhuman.pdf)|
+Supervising Unsupervised Learning | Pranava | [PDF](http://www.mit.edu/~vgarg/nips2018sup.pdf)|
+Learning SMaLL Predictors | Pranava | [PDF](http://www.mit.edu/~vgarg/nips2018small.pdf)|
+Deep-carving: Discovering visual attributes by carving deep neural nets | Pranava | [PDF](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Shankar_DEEP-CARVING_Discovering_Visual_2015_CVPR_paper.pdf)|
 ---------------------------------------------------------------------------------------
 
 
