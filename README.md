@@ -2,6 +2,7 @@
 # ImperialNLP/GLAM Reading Group
 --------------------------------------
 
+If you want to be added to the mailing list (365-glamreadinggroup@groups.imperial.ac.uk), please ask Teresa Ng (t.ng@imperial.ac.uk) to add you. 
 
 ## Current Schedule - Thursday 4 - 5 pm:
 * 421 - Dec 6th, 20th
