@@ -18,6 +18,9 @@ If you want to be added to the mailing list (365-glamreadinggroup@groups.imperia
 
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
+| Dec 6 |  Pranava | [Deliberation Networks: Sequence Generation Beyond One-Pass Decoding]( https://papers.nips.cc/paper/6775-deliberation-networks-sequence-generation-beyond-one-pass-decoding.pdf)|
+
+
 
 
 
