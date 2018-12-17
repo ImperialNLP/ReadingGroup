@@ -1,7 +1,8 @@
 | Title  | Who suggested | Link     |
 |-------------|------------|--------|
 |DONE - Deliberation Networks: Sequence Generation Beyond One-Pass Decoding | Lucia | [PDF](https://papers.nips.cc/paper/6775-deliberation-networks-sequence-generation-beyond-one-pass-decoding.pdf)|
-|A Visual Attention Grounding Neural Model for Multimodal Machine Translation | Lucia | [PDF](http://aclweb.org/anthology/D18-1400)|
+|DONE - A Visual Attention Grounding Neural Model for Multimodal Machine Translation | Lucia | [PDF](http://aclweb.org/anthology/D18-1400)|
+|Learning do Translate in Real-time with Neural Machine Translation | Lucia | [PDF](https://arxiv.org/abs/1610.00388)
 |D2KE: From Distance to Kernel and Embedding | Pranava | [PDF](https://arxiv.org/abs/1802.04956)|
 |Improving Neural Machine Translation with Conditional Sequence Generative Adversarial Nets | Lucia | [PDF](https://arxiv.org/abs/1703.04887) |
 Adversarial Neural Machine Translation | Lucia | [PDF](https://arxiv.org/abs/1704.06933)|
