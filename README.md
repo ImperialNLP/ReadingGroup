@@ -15,14 +15,12 @@ If you want to be added to the mailing list (365-glamreadinggroup@groups.imperia
 * 421 - June - 6th, 13th, 20th, 27th
 * 421 - July - 4th, 11th, 18th, 25th
 
+Current schedule and paper suggestions [here](https://github.com/ImperialNLP/ReadingGroup/blob/master/suggestions.md)
+
+Additional notes
 
 | Date       | Presenter     |  Topic     |
 |-------------|--------|--------|
-| Dec 6 |  Pranava | [Deliberation Networks: Sequence Generation Beyond One-Pass Decoding]( https://papers.nips.cc/paper/6775-deliberation-networks-sequence-generation-beyond-one-pass-decoding.pdf)|
-| Dec 13 |  Chiraag | [A Visual Attention Grounding Neural Model for Multimodal Machine Translation]( http://aclweb.org/anthology/D18-1400)|
-
-
-
-
-
-Check current suggestions or suggest other papers [here](https://github.com/ImperialNLP/ReadingGroup/blob/master/suggestions.md)
+| Dec 6 18 |  Pranava | [Deliberation Networks: Sequence Generation Beyond One-Pass Decoding]( https://papers.nips.cc/paper/6775-deliberation-networks-sequence-generation-beyond-one-pass-decoding.pdf)|
+| Dec 13 18 |  Chiraag | [A Visual Attention Grounding Neural Model for Multimodal Machine Translation]( http://aclweb.org/anthology/D18-1400)|
+| March 14th 19 | Georgios | [Gated Path Planning Networks](http://proceedings.mlr.press/v80/lee18c/lee18c.pdf)|
