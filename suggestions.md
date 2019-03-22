@@ -2,6 +2,7 @@
 |-------------|------------|--------|
 |DONE - Taking a HINT: Leveraging Explanations to Make Vision and Language Models More Grounded | Lucia | [PDF](https://arxiv.org/abs/1902.03751)|
 |DONE -  Gated Path Planning Networks | Georgios | [PDF](http://proceedings.mlr.press/v80/lee18c/lee18c.pdf)|
+|DONE - A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings | Julia | [PDF](https://aclweb.org/anthology/P18-1073)|
 |DONE - Deliberation Networks: Sequence Generation Beyond One-Pass Decoding | Julia | [PDF](https://papers.nips.cc/paper/6775-deliberation-networks-sequence-generation-beyond-one-pass-decoding.pdf)|
 |DONE - A Visual Attention Grounding Neural Model for Multimodal Machine Translation | Chiraag | [PDF](http://aclweb.org/anthology/D18-1400)|
 |DONE - Learning do Translate in Real-time with Neural Machine Translation | Lucia | [PDF](https://arxiv.org/abs/1610.00388)
